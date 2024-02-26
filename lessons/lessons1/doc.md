@@ -23,10 +23,10 @@
 
 Решение:
 1. не делал, стартовали курс за день до первого созвона
-2. см [схему Event Storming](https://miro.com/app/board/uXjVMB08w2E=/?moveToWidget=3458764580046537610&cot=14)
-3. см [схему Data Model](https://miro.com/app/board/uXjVMB08w2E=/?moveToWidget=3458764580046537610&cot=14)
+2. см [схему Event Storming]([https://miro.com/app/board/uXjVMB08w2E=/?moveToWidget=3458764580046537610&cot=14](https://miro.com/app/board/uXjVMB08w2E=/?share_link_id=745613486833))
+3. см [схему Data Model]([https://miro.com/app/board/uXjVMB08w2E=/?moveToWidget=3458764580046537610&cot=14](https://miro.com/app/board/uXjVMB08w2E=/?share_link_id=745613486833))
 4. см п3
-5. см [схему Services](https://miro.com/app/board/uXjVMB08w2E=/?moveToWidget=3458764580046537610&cot=14)
+5. см [схему Services]([https://miro.com/app/board/uXjVMB08w2E=/?moveToWidget=3458764580046537610&cot=14](https://miro.com/app/board/uXjVMB08w2E=/?share_link_id=745613486833))
 6. см п5
    1. синим бизнес события передаваемые между сервисами через очередь
    2. направление стрелок обозначает продюсера -> консюмера
